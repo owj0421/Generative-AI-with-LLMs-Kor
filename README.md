@@ -1,2 +1,2 @@
 # Generative-AI-with-LLMs-Kor
-Korean translation of "Generative AI with Large Language Models" course assignments @ Coursera
+Korean translation of lab works for coursera course on "Generative AI with Large Language Models".
